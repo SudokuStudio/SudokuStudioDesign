@@ -3,12 +3,13 @@
     "email": "exampleuser@example.com",
     "preferences": {
         "theme": "light",
-        "toolbox": {
-            "killer": true,
-            "arrow": true
-        },
+        "toolbox": ["killer", "arrow"],
         "etc": "etc"
     },
+    "following": [
+        "ExampleUser2",
+        "ExampleUser3"
+    ],
     "puzzles": [{
             "id": "BHEmoOVhw7",
             "name": "Puzzle In Progress",
@@ -23,13 +24,11 @@
             "rules": "Normal Sudoku rules apply.",
             "testing_datetime": "2021-07-11T04:01:23.000Z",
             "state": "testing",
+            "license": "CC BY-NC-SA 4.0",
             "expected_difficulty": 3,
             "puzzle": "base64stuff",
             "solution": "base64stuff",
-            "tags": [
-                "Killer",
-                "Arrow"
-            ],
+            "tags": ["Killer", "Arrow"],
             "test_solves": [{
                     "username": "Simon",
                     "datetime": "2021-07-11T12:01:23.000Z"
@@ -65,12 +64,11 @@
             "author": "ExampleUser and ExampleUser2",
             "rules": "Normal Sudoku rules apply.",
             "state": "published",
+            "license": "CC BY-NC-SA 4.0",
             "expected_difficulty": 3,
             "puzzle": "base64stuff",
             "solution": "base64stuff",
-            "tags": [
-                "Classic"
-            ],
+            "tags": ["Classic"],
             "guest_solves": 2,
             "solves": [{
                     "username": "Simon",
