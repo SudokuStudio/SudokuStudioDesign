@@ -31,11 +31,13 @@
             "tags": ["Killer", "Arrow"],
             "test_solves": [{
                     "username": "Simon",
-                    "datetime": "2021-07-11T12:01:23.000Z"
+                    "datetime": "2021-07-11T12:01:23.000Z",
+                    "approved": true
                 },
                 {
                     "username": "Mark",
-                    "datetime": "2021-07-11T14:10:34.000Z"
+                    "datetime": "2021-07-11T14:10:34.000Z",
+                    "approved": true
                 }
             ],
             "difficulty": {
@@ -72,11 +74,13 @@
             "guest_solves": 2,
             "solves": [{
                     "username": "Simon",
-                    "datetime": "2021-07-11T12:01:23.000Z"
+                    "datetime": "2021-07-11T12:01:23.000Z",
+                    "approved": true
                 },
                 {
                     "username": "Mark",
-                    "datetime": "2021-07-11T14:10:34.000Z"
+                    "datetime": "2021-07-11T14:10:34.000Z",
+                    "approved": true
                 }
             ],
             "difficulty": {
