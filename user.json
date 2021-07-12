@@ -1,0 +1,113 @@
+{
+    "username": "ExampleUser",
+    "email": "exampleuser@example.com",
+    "preferences": {
+        "theme": "light",
+        "toolbox": {
+            "killer": true,
+            "arrow": true
+        },
+        "etc": "etc"
+    },
+    "puzzles": [{
+            "id": "BHEmoOVhw7",
+            "name": "Puzzle In Progress",
+            "rules": "Normal Sudoku rules apply.\nStandard Killer.\nStandard Arrow.",
+            "state": "unpublished",
+            "puzzle": "base64stuff"
+        },
+        {
+            "id": "Eu550bG9nm",
+            "name": "Puzzle In Testing",
+            "author": "ExampleUser",
+            "rules": "Normal Sudoku rules apply.",
+            "testing_datetime": "2021-07-11T04:01:23.000Z",
+            "state": "testing",
+            "expected_difficulty": 3,
+            "puzzle": "base64stuff",
+            "solution": "base64stuff",
+            "tags": [
+                "Killer",
+                "Arrow"
+            ],
+            "test_solves": [{
+                    "username": "Simon",
+                    "datetime": "2021-07-11T12:01:23.000Z"
+                },
+                {
+                    "username": "Mark",
+                    "datetime": "2021-07-11T14:10:34.000Z"
+                }
+            ],
+            "difficulty": {
+                "Simon": 3,
+                "Mark": 2
+            },
+            "likes": [
+                "Simon",
+                "Mark"
+            ],
+            "testing_comments": [{
+                    "author": "Simon",
+                    "datetime": "2021-07-11T12:01:23.000Z",
+                    "comment": "Testing comment"
+                },
+                {
+                    "author": "Mark",
+                    "datetime": "2021-07-11T14:10:34.000Z",
+                    "comment": "Testing comment"
+                }
+            ]
+        },
+        {
+            "id": "ExULBder7m",
+            "name": "Published Puzzle",
+            "author": "ExampleUser and ExampleUser2",
+            "rules": "Normal Sudoku rules apply.",
+            "state": "published",
+            "expected_difficulty": 3,
+            "puzzle": "base64stuff",
+            "solution": "base64stuff",
+            "tags": [
+                "Classic"
+            ],
+            "guest_solves": 2,
+            "solves": [{
+                    "username": "Simon",
+                    "datetime": "2021-07-11T12:01:23.000Z"
+                },
+                {
+                    "username": "Mark",
+                    "datetime": "2021-07-11T14:10:34.000Z"
+                }
+            ],
+            "difficulty": {
+                "Simon": 2,
+                "Mark": 1
+            },
+            "likes": [
+                "Simon"
+            ],
+            "testing_comments": [{
+                    "author": "Simon",
+                    "comment": "Testing comment"
+                },
+                {
+                    "author": "Mark",
+                    "comment": "Testing comment"
+                }
+            ],
+            "comments": [{
+                    "author": "Simon",
+                    "datetime": "2021-07-11T12:01:23.000Z",
+                    "comment": "This is a comment ||with a spoiler||."
+                },
+                {
+                    "author": "Mark",
+                    "datetime": "2021-07-11T14:10:34.000Z",
+                    "comment": "This is a comment"
+                }
+            ]
+        }
+    ]
+}
