@@ -1,4 +1,4 @@
-| name | render order | implemented?
+| name | render order | implemented (render & placement)
 |---|---|---|
 | clone | 10 |
 | max/min | 20 | ✔
@@ -13,6 +13,6 @@
 | grid lines | 100 | ✔
 | quadruple | 110 | ✔
 | killer | 120 | 1/2
-| kropki/XV | 130 |
+| kropki/XV | 130 | ✔
 | sandwich/little killer/skyscraper/x-sums | 140 |
-| given/pencil mark | 150
+| given/pencil mark | 150 | ✔
