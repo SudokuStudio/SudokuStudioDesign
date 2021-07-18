@@ -9,7 +9,7 @@
 | palindrome | 60 | |
 | whisper | 70 | |
 | renban | 80 | |
-| arrow | 90 | 1/2 |
+| arrow | 90 | ✔ |
 | diagonal | 95 | ✔ |
 | grid line | 100 | ✔ |
 | quadruple | 110 | ✔ |
