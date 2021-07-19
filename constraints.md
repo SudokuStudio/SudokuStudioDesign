@@ -16,7 +16,8 @@
 | killer | 120 | 1/2 |
 | XV | 130 | ✔ |
 | kropki | 140 | ✔ |
-| sandwich/little killer/skyscraper/x-sum | 150 | |
+| sandwich/skyscraper/x-sum | 150 | ✔ |
+| little killer | 160 | |
 | center/corner mark | 200 | ✔ |
 | filled mark | 210 | ✔ |
 | givens | 220 | ✔ |
