@@ -4,7 +4,7 @@
 | color mark | 15 | ✔ |
 | max/min | 20 | ✔ |
 | thermo | 30 | ✔ |
-| even/odd | 40 | |
+| even/odd | 40 | ✔ |
 | between line | 50 | ✔
 | palindrome | 60 | |
 | whisper | 70 | |
