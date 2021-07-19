@@ -6,9 +6,9 @@
 | thermo | 30 | ✔ |
 | even/odd | 40 | ✔ |
 | between line | 50 | ✔
-| palindrome | 60 | |
-| whisper | 70 | |
-| renban | 80 | |
+| palindrome | 60 | ✔ |
+| whisper | 70 | ✔ |
+| renban | 80 | ✔ |
 | arrow | 90 | ✔ |
 | diagonal | 95 | ✔ |
 | grid line | 100 | ✔ |
