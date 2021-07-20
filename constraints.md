@@ -13,11 +13,13 @@
 | diagonal | 95 | ✔ |
 | grid line | 100 | ✔ |
 | quadruple | 110 | ✔ |
-| killer | 120 | 1/2 |
+| killer | 120 | ✔\* |
 | XV | 130 | ✔ |
 | kropki | 140 | ✔ |
 | sandwich/skyscraper/x-sum | 150 | ✔ |
-| little killer | 160 | |
+| little killer | 160 | ✔ |
 | center/corner mark | 200 | ✔ |
 | filled mark | 210 | ✔ |
 | givens | 220 | ✔ |
+
+\*needs adjustment
