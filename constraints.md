@@ -1,6 +1,7 @@
 | name | render order | implemented (render & placement)
 |---|---|---|
-| clone | 10 | |
+| extra regions | ? | |
+| clone | 10 | ✔ |
 | color mark | 15 | ✔ |
 | max/min | 20 | ✔ |
 | thermo | 30 | ✔ |
